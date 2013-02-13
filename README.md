@@ -1,4 +1,4 @@
-Minimal Busybox for Android, Statically Linked
+Busybox for Android, Statically Linked
 ====================================================
 
 Compiling yourself
